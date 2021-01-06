@@ -1,0 +1,2 @@
+# FNT-SCAN
+Automatic scanner
