@@ -1,0 +1,1 @@
+2021-01-08 14:16:08,998 [FATAL] MainProcess(36456):MainThread        (32184) | FntScan.check_param:60 - You must provide either target or targets parameter
